@@ -1,1 +1,2 @@
 rootProject.name = 'sqflite'
+include ":dep"

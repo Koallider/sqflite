@@ -52,4 +52,5 @@ android {
 
 dependencies {
     testImplementation 'junit:junit:4.13.2'
+    compileOnly files('lib/sqlite-android-3460100.aar')
 }
